@@ -6,7 +6,7 @@ A lâmpada deve possuir tipo, nome, marca, preço e código.
 
 ## Questão 2
 
-O time deve possuir como dados o nome, jogadores, treinador e posição. Como operações, o time deve possuir as funções ÚltimoJogo() e PróximosJogos().
+O time deve possuir como dados o nome, jogadores, treinador, posição, ultimoAdversario e proximoAdversario. Como operações, o time deve possuir as funções MostrarDados(), MostrarUltimoJogo() e MostrarProximoJogo().
 
 ## Questão 3
 
