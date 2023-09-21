@@ -1,3 +1,33 @@
+# BMAtividade página 78
+
+## Questão 1
+
+A lâmpada deve possuir tipo, nome, marca, preço e código.
+
+## Questão 2
+
+O time deve possuir como dados o nome, jogadores, treinador e posição. Como operações, o time deve possuir as funções ÚltimoJogo() e PróximosJogos().
+
+## Questão 3
+
+```java
+void mostrarDados(){
+    System.out.print("O nome do correntista é ");
+    System.out.print(nomeDoCorrentista);
+    System.out.print("O saldo é");
+    System.out.print(saldo);
+    if(contaÉEspecial){
+        if(saldo < 0){
+            System.out.print("Saldo negativo!");
+        }
+        System.out.print("A conta é especial.");
+    }
+    else{
+        System.out.print("A conta é comum.");
+    }
+}
+```  
+
 # BMAtividade página 79 à 80
 
 ## Questão 7
